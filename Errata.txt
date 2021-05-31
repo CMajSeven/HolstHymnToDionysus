@@ -1,0 +1,30 @@
+A list of errata from the 1914 Stainer and Bell Edition
+
+Measure 1, etc. : Flute has E instead of D.
+Measure 9 : Bassoons have bass clef instead of tenor clef.
+Measure 21 : Cello, Bass missing tie on C.
+Measure 29 : Sopranos have C instead of C#. Violin 2 is missing con sord.
+Measure 36 : Sopranos have C instead of C#.
+Measure 40 : Horns 3 and 4 have G instead of B.
+Measure 43 : Bass Clarinet missing Bb sixteenth note.
+Measure 47 : Bass Clarinet has G instead of Bb on final sixteenth note.
+Measures 57 and 58 : Trumpet 2 has D instead of C.
+Measures 62 and 64 : Flutes and Piccolo have Es instead of Fs.
+Measures 71-79 : Bassoon has bass clef instead of tenor clef. Alto has bass clef instead of treble clef.
+Measure 75 : Clarinet 2 has no incoming notes for slur.
+Measure 76 : Clarinet 1 is missing slur.
+Measure 83 : Clarinet 1 has slur going into 84, but 84 does not have slur from 83.
+Measure 86 : Flute is missing slur.
+Measure 87 : Harp has impossible to play chord with D and Db. Correcting D to Db
+Measure 95 : English Horn has missing incoming tie.
+Measure 96 : Violin 2 has E instead of C.
+Measure 102 : Viola beat 3 missing treble clef.
+Measure 105 : Triangle hit missing.
+Measures 105 and 106 : Harp/Celesta left hand has bass clef instead of treble clef.
+Measure 115 : Bass Clarinet is missing tie. Timpani has A instead of Ab.
+Measure 122-124 : Viola has treble clef instead of alto clef.
+Measure 124 : Oboe 2 has a slur that no other instruments with the same phrase have. Viola has Cs; these are probably supposed to be Cbs based on the vocal score.
+Measure 127-137 : Harp lower staff has treble clef instead of bass clef.
+
+Editorial Note:
+Measure 125 : Voices hold for 5 beats in vocal score but 8 in orchestral score.
