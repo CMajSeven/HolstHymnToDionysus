@@ -1,16 +1,22 @@
 A list of errata from the 1914 Stainer and Bell Edition
 
 Measure 1, etc. : Flute has E instead of D.
+Measure 7 : Violin 2 pattern changes when it should not.
 Measure 9 : Bassoons have bass clef instead of tenor clef.
 Measure 21 : Cello, Bass missing tie on C.
 Measure 29 : Sopranos have C instead of C#. Violin 2 is missing con sord.
+Measures 34 and 35 : Violas have alto clef instead of treble clef.
 Measure 36 : Sopranos have C instead of C#.
+Measures 36 and 37 : Violas have tenor clef instead of treble clef.
 Measure 40 : Horns 3 and 4 have G instead of B.
 Measure 43 : Bass Clarinet missing Bb sixteenth note.
 Measure 47 : Bass Clarinet has G instead of Bb on final sixteenth note.
+Measure 49 : Flute 2 fourth 16th note is Eb instead of Gb.
+Measure 52 : Clarinets missing incoming slur.
+Measure 53 : Choral part disagrees with vocal score. Recording matches vocal score part.
 Measures 57 and 58 : Trumpet 2 has D instead of C.
 Measures 62 and 64 : Flutes and Piccolo have Es instead of Fs.
-Measures 71-79 : Bassoon has bass clef instead of tenor clef. Alto has bass clef instead of treble clef.
+Measures 71-79 : Bassoons has bass clef instead of tenor clef. Alto has bass clef instead of treble clef.
 Measure 75 : Clarinet 2 has no incoming notes for slur.
 Measure 76 : Clarinet 1 is missing slur.
 Measure 83 : Clarinet 1 has slur going into 84, but 84 does not have slur from 83.
@@ -21,6 +27,8 @@ Measure 96 : Violin 2 has E instead of C.
 Measure 102 : Viola beat 3 missing treble clef.
 Measure 105 : Triangle hit missing.
 Measures 105 and 106 : Harp/Celesta left hand has bass clef instead of treble clef.
+Measure 110 : Violin 1.1 grace note D# missing accidental.
+Measures 112 and 113 : Flutes have E# and G instead of E and G#. 
 Measure 115 : Bass Clarinet is missing tie. Timpani has A instead of Ab.
 Measures 122-124 : Viola has treble clef instead of alto clef.
 Measure 124 : Oboe 2 has a slur that no other instruments with the same phrase have. Viola has Cs; these are probably supposed to be Cbs based on the vocal score.
@@ -75,16 +83,19 @@ Measure 304 : Flute 1 has A instead of Ab.
 Measures 305-308 : Clarinet 1 has Ds instead of Dbs (based on vocal score).
 
 Editorial Note:
+Measures 49 and 50 : Bassoons crescendo and forte added.
+Measure 51 : Flutes forte added. Oboes have outgoing tie, but next measure has no incoming tie. Keeping tie.
+Measure 112 : Violas mf added.
 Measure 125 : Voices hold for 5 beats in vocal score but 8 in orchestral score.
 Measures 138-139 : Dynamics in flutes and oboes normalized.
 Measure 153 and 157 : Only violas have dim. Removing this.
-Measure 157 : Violin 2 div. hand written in. Removed.
+Measure 157 : Violin 2 div. hand written in.
 Measure 158 : Trumpet 2 does not have an A in this measure. Inserting.
 Measure 174 : Bass clarinet has "to Clarinet 3" instruction but staff label never changes to Cl. 3. Assuming rest of music is for Clarinet.
 Measure 182 : Unmarked percussion instrument in lower staff. Assuming bass drum. Couple of missing dynamics in this area.
-Measure 190 etc. : Harp pattern is suspicious, particularly the pattern change after the page turn and the Gs in otherwise a Bb major triad.
+Measure 190 etc. : Harp pattern is suspicious, particularly the pattern change after the page turn and the Gs in otherwise a Bb major triad. Recording seems to match score though.
 Measure 210-214 : Sul G should include pickup D and Violin 2.
 Measure 230 : English Horn has incoming tie. Previous measure has no outgoing tie. Removing tie based on other instruments.
 Measure 246 : Trumpet 1 has incoming tie. Previous measure has no outgoing tie. Removing tie based on other instruments and breath considerations.
-Cymbal a 2 in a couple of places. Assuming this just means clash cymbal.
+Cymbal a2 in a couple of places. Assuming this is a redundant indication of clash cymbals.
 Measure 299 : English Horn eighth note lengthened to quarter note and accent added.
