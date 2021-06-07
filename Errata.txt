@@ -38,16 +38,17 @@ Measures 132-134 : Bassoons have A instead of Ab.
 Measure 133 : Horn 3 has D# instead of D in second half of measure.
 Measure 134 : Flute 1 has E instead of Eb.
 Measure 138 : Flute 1 missing accidental on A natural in second half of measure.
-Measure 139 : Flute 2 has G instead of G# in first half of measure. Flutes 1 and 2 have eighth notes instead of quarter notes on beat 4. Violin 1 has B instead of Bb on last note.
+Measure 139 : Flute 2 has G instead of G# in first half of measure. Flutes 1 and 2 have eighth notes instead of quarter notes on beat 4. Violin 1 has B instead of Bb on last note. Violin 2 should be 1 octave below Violin 1.
 Measures 141-146 : Harp missing A key signature.
 Measure 143 : Triangle is missing tie between dotted quarter and eighth.
 Measures 145 and 146 : English Horn has D instead of D# in first halves of measures. Harp lower staff C naturals missing accidentals.
 Measure 146 : Flute 3 has F instead of F#.
 Measure 148 : Flute 1 and 2 have F instead of F#.
+Measure 150 : Violin 2 has E instead of Eb. Viola has B instead A (probably).
 Measure 162 : Oboe 1 has G instead of G#. (Vocal score has G#.)
 Measure 165 : Clarinet 2 is missing slur.
 Measures 168-173 : Flute 1 has Gs instead of Bs.
-Measure 174 : Trombones 1 and 2 have treble instead of tenor clef. Bass clarinet has bass clef instead of treble clef.
+Measure 174 : Trombones 1 and 2 have treble instead of tenor clef. Bass clarinet has bass clef instead of treble clef. Altos have B instead of D.
 Measure 179 : Violins missing accidentals on Ebs and Bbs.
 Measures 179-182 : Violas have bass clef instead of alto clef. Cellos have tenor clef instead of bass clef.
 Measure 182 : Flute 1 has G# instead of G, B instead of G.
@@ -57,9 +58,12 @@ Measures 184 and 185 : Trombones and Tuba have treble clef instead of bass clef.
 Measure 187 : First beat has A+C chord instead of just C. Flute 2 should have Bs instead of B#s.
 Measures 188 and 189 : From beat 1.5 melody is two steps too low. Should be octave above oboes.
 Measure 191 : Trombones missing incoming tie.
+Measures 191-202 : Tuba should be in unision with Bassoons.
+Measure 193 : Flute 1 beat 3 is missing.
 Measures 205-208 : Harp has E instead of Eb
-Measure 206 : Flute 1 has Cb instead of Eb, E instead of G.
+Measure 206 : Flute 1 has Cb instead of Eb, E instead of G. Altos have G instead of Eb (vocal score).
 Measure 207 : Clarinet 2 last note probably should have C instead of D.
+Measures 207 and 208 : Harp missing accidentals on Ebs.
 Measure 211 and 212 : The Bassoon part is written in the Bass Clarinet (Clarinet 3) staff.
 Measure 216 : Trombone 3 and Tuba part written on Trombone 1 and 2 staff.
 Measure 230 and 231 : Piccolo has Es instead of Cs.
@@ -88,11 +92,14 @@ Measure 51 : Flutes forte added. Oboes have outgoing tie, but next measure has n
 Measure 112 : Violas mf added.
 Measure 125 : Voices hold for 5 beats in vocal score but 8 in orchestral score.
 Measures 138-139 : Dynamics in flutes and oboes normalized.
+Measure 143 : Alots have F# in orchestral score, A in vocal score at end of measure.
 Measure 153 and 157 : Only violas have dim. Removing this.
 Measure 157 : Violin 2 div. hand written in.
 Measure 158 : Trumpet 2 does not have an A in this measure. Inserting.
 Measure 174 : Bass clarinet has "to Clarinet 3" instruction but staff label never changes to Cl. 3. Assuming rest of music is for Clarinet.
+Measure 181 : Vocal score Altos have E in unison with Sopranos.
 Measure 182 : Unmarked percussion instrument in lower staff. Assuming bass drum. Couple of missing dynamics in this area.
+Measure 183 : Cellos beat 2 have septuplet. It seems like this should be a sextuplet with the Eb landing on the beat with the other instruments.
 Measure 190 etc. : Harp pattern is suspicious, particularly the pattern change after the page turn and the Gs in otherwise a Bb major triad. Recording seems to match score though.
 Measure 210-214 : Sul G should include pickup D and Violin 2.
 Measure 230 : English Horn has incoming tie. Previous measure has no outgoing tie. Removing tie based on other instruments.
