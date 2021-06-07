@@ -94,7 +94,7 @@ Measure 51 : Flutes forte added. Oboes have outgoing tie, but next measure has n
 Measure 112 : Violas mf added.
 Measure 125 : Voices hold for 5 beats in vocal score but 8 in orchestral score.
 Measures 138-139 : Dynamics in flutes and oboes normalized.
-Measure 143 : Alots have F# in orchestral score, A in vocal score at end of measure.
+Measure 143 : Altos have F# in orchestral score, A in vocal score at end of measure.
 Measure 153 and 157 : Only violas have dim. Removing this.
 Measure 157 : Violin 2 div. hand written in.
 Measure 158 : Trumpet 2 does not have an A in this measure. Inserting.
