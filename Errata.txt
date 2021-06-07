@@ -66,12 +66,14 @@ Measure 207 : Clarinet 2 last note probably should have C instead of D.
 Measures 207 and 208 : Harp missing accidentals on Ebs.
 Measure 211 and 212 : The Bassoon part is written in the Bass Clarinet (Clarinet 3) staff.
 Measure 216 : Trombone 3 and Tuba part written on Trombone 1 and 2 staff.
+Measure 223 : Clarinet 2 has Gb instead of G.
 Measure 230 and 231 : Piccolo has Es instead of Cs.
 Measure 238 : Clarinets have Fs instead of Ds.
 Measure 239 : Flute 1 has E instead of F.
 Measure 245 : Harp upper staff has Fs instead F#s.
 Measure 246 : Harp has E instead of C.
 Measure 248 : Harp has B pedal marking but has Bb in upper staff. Based on surroundings should be all Bbs. Violin 1 has F instead of F#.
+Measure 249 : Piccolo has F instead of G.
 Measures 250 and 251 : Piccolo and Flute 2 have F C# G G arpeggios. Fs should be Gs.
 Measure 253 : Violin 2 has D# instead D (based on vocal score). Harp has Dbs instead of Ds.
 Measure 255 : Harp has Eb pedal marking instead of E.
