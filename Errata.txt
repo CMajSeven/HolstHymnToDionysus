@@ -1,4 +1,4 @@
-A list of errata from the 1914 Stainer and Bell Edition
+A list of errata from the Stainer and Bell Edition
 
 Measure 1, etc. : Flute has E instead of D.
 Measure 7 : Violin 2 pattern changes when it should not.
