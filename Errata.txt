@@ -64,28 +64,37 @@ Measures 205-208 : Harp has E instead of Eb
 Measure 206 : Flute 1 has Cb instead of Eb, E instead of G. Altos have G instead of Eb (vocal score).
 Measure 207 : Clarinet 2 last note probably should have C instead of D.
 Measures 207 and 208 : Harp missing accidentals on Ebs.
-Measure 211 and 212 : The Bassoon part is written in the Bass Clarinet (Clarinet 3) staff.
+Measure 211 and 212 : The Bassoon part is written in the Bass Clarinet (Clarinet 3) staff. Assuming Clarinet 3 part continues eighth notes.
 Measure 216 : Trombone 3 and Tuba part written on Trombone 1 and 2 staff.
-Measure 223 : Clarinet 2 has Gb instead of G.
-Measure 230 and 231 : Piccolo has Es instead of Cs.
+Measure 223 : Clarinet has B instead of Bb. Clarinet 2 has Gb instead of G.
+Measure 228 : Horns 1 and 2 have D instead of C for last eighth note.
+Measures 230 and 231 : Piccolo has Es instead of Cs.
+Measure 232 : Alto 2 3rd triplet split in Eb+G+Bb. Vocal score only split into Eb and Bb.
 Measure 238 : Clarinets have Fs instead of Ds.
-Measure 239 : Flute 1 has E instead of F.
+Measure 239 : Flutes 1 and 2 have E instead of F.
+Measure 241 : Clarinet 1 last note has Eb instead of F.
 Measure 245 : Harp upper staff has Fs instead F#s.
 Measure 246 : Harp has E instead of C.
 Measure 248 : Harp has B pedal marking but has Bb in upper staff. Based on surroundings should be all Bbs. Violin 1 has F instead of F#.
-Measure 249 : Piccolo has F instead of G.
+Measure 249 : Piccolo has F instead of G. Violas have E instead of Eb.
 Measures 250 and 251 : Piccolo and Flute 2 have F C# G G arpeggios. Fs should be Gs.
-Measure 253 : Violin 2 has D# instead D (based on vocal score). Harp has Dbs instead of Ds.
+Measure 253 : Violin 2 has D# instead of D (based on vocal score). Harp has Dbs instead of Ds. Alto second note has B instead of Bb.
 Measure 255 : Harp has Eb pedal marking instead of E.
-Measure 257 : Viola has D instead of Db.
+Measures 256 and 257 : Flute 2 part is written in Flute 1 part. Flute 1 part assumed to continue same pattern. See measure 258.
+Measure 257 : Viola has D instead of Db. Chorus has Ds instead of Cs (according to vocal score).
+Measure 258 : Flute 1 and 2 chord written on Flute 1 part.
 Measure 259 : Trombone 1 has D instead of Db.
 Measures 260-276 : Bassoons have alto clef instead of bass clef.
 Measures 260-End : Bass Clarinet has bass instead of treble clef.
+Measure 267 : Flute 1 3rd eighth note has G instead of E.
+Measures 270-273 : Horns 3 and 4 should repeat 7 measures earlier.
 Measures 277-298 : Bassoons have alto clef instead of tenor clef.
 Measures 280 and 281 : Oboe 1 should have tie between measures instead of the slur from Oboe 2.
 Measures 295-298 : Cellos have bass clef instead of tenor clef.
+Measures 296, 298, and 300 : Horns missing stops
 Measure 301 : Flute 1 has A instead of Ab.
 Measure 304 : Flute 1 has A instead of Ab.
+Measures 304-308 : Timpani missing accidentals of Gbs and Dbs.
 Measures 305-308 : Clarinet 1 has Ds instead of Dbs (based on vocal score).
 
 Editorial Note:
@@ -105,6 +114,7 @@ Measure 183 : Cellos beat 2 have septuplet. It seems like this should be a sextu
 Measure 190 etc. : Harp pattern is suspicious, particularly the pattern change after the page turn and the Gs in otherwise a Bb major triad. Recording seems to match score though.
 Measure 210-214 : Sul G should include pickup D and Violin 2.
 Measure 230 : English Horn has incoming tie. Previous measure has no outgoing tie. Removing tie based on other instruments.
+Measure 233 : Altos in vocal score have G+Bb divisi that orchestral score does not have.
 Measure 246 : Trumpet 1 has incoming tie. Previous measure has no outgoing tie. Removing tie based on other instruments and breath considerations.
 Cymbal a2 in a couple of places. Assuming this is a redundant indication of clash cymbals.
 Measure 299 : English Horn eighth note lengthened to quarter note and accent added.
