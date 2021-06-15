@@ -99,7 +99,9 @@ Measures 305-308 : Clarinet 1 has Ds instead of Dbs (based on vocal score).
 
 Editorial Note:
 Measures 49 and 50 : Bassoons crescendo and forte added.
+Measure 50 : Beat 5. In orchestral version, Soprano 2s have Bb but in the vocal score, the Altos have this note.
 Measure 51 : Flutes forte added. Oboes have outgoing tie, but next measure has no incoming tie. Keeping tie.
+Measure 58 : Beat 2. In orchestral version, Sopranos are in unison with Altos divisi G+Bb. Vocal score has Altos unison and Sopranos divisi Bb+Eb.
 Measure 112 : Violas mf added.
 Measure 125 : Voices hold for 5 beats in vocal score but 8 in orchestral score.
 Measures 138-139 : Dynamics in flutes and oboes normalized.
@@ -108,7 +110,7 @@ Measure 153 and 157 : Only violas have dim. Removing this.
 Measure 157 : Violin 2 div. hand written in.
 Measure 158 : Trumpet 2 does not have an A in this measure. Inserting.
 Measure 174 : Bass clarinet has "to Clarinet 3" instruction but staff label never changes to Cl. 3. Assuming rest of music is for Clarinet.
-Measure 181 : Vocal score Altos have E in unison with Sopranos.
+Measure 181 : Vocal score Altos have E in unison with Sopranos. Orchestral score Altos have C.
 Measure 182 : Unmarked percussion instrument in lower staff. Assuming bass drum. Couple of missing dynamics in this area.
 Measure 183 : Cellos beat 2 have septuplet. It seems like this should be a sextuplet with the Eb landing on the beat with the other instruments.
 Measure 190 etc. : Harp pattern is suspicious, particularly the pattern change after the page turn and the Gs in otherwise a Bb major triad. Recording seems to match score though.
@@ -116,5 +118,5 @@ Measure 210-214 : Sul G should include pickup D and Violin 2.
 Measure 230 : English Horn has incoming tie. Previous measure has no outgoing tie. Removing tie based on other instruments.
 Measure 233 : Altos in vocal score have G+Bb divisi that orchestral score does not have.
 Measure 246 : Trumpet 1 has incoming tie. Previous measure has no outgoing tie. Removing tie based on other instruments and breath considerations.
-Cymbal a2 in a couple of places. Assuming this is a redundant indication of clash cymbals.
+Cym. a2 in a couple of places (in addition to just Cym.). This is a redundant indication of clash cymbals.
 Measure 299 : English Horn eighth note lengthened to quarter note and accent added.
