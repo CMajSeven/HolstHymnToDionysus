@@ -22,11 +22,13 @@ Measure 76 : Clarinet 1 is missing slur.
 Measure 83 : Clarinet 1 has slur going into 84, but 84 does not have slur from 83.
 Measure 86 : Flute is missing slur.
 Measure 87 : Harp has impossible to play chord with D and Db. Correcting D to Db
+Measure 92 : Sopranos have a div in 3. There is an extra Db.
 Measure 95 : English Horn has missing incoming tie.
 Measure 96 : Violin 2 has E instead of C.
 Measure 102 : Viola beat 3 missing treble clef.
 Measure 105 : Triangle hit missing.
 Measures 105 and 106 : Harp/Celesta left hand has bass clef instead of treble clef.
+Measure 107: Violin 1.2 in unis with violin 1.1, a third too high.
 Measure 110 : Violin 1.1 grace note D# missing accidental.
 Measures 112 and 113 : Flutes have E# and G instead of E and G#. 
 Measure 115 : Bass Clarinet is missing tie. Timpani has A instead of Ab.
