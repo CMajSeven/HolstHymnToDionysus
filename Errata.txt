@@ -72,6 +72,7 @@ Measure 207 : Clarinet 2 last note probably should have C instead of D.
 Measures 207 and 208 : Harp missing accidentals on Ebs.
 Measure 211 and 212 : The Bassoon part is written in the Bass Clarinet (Clarinet 3) staff. Assuming Clarinet 3 part continues eighth notes.
 Measure 216 : Trombone 3 and Tuba part written on Trombone 1 and 2 staff.
+Measure 221 : Horns 1 and 2 should have Ab with trombone.
 Measure 223 : Clarinet has B instead of Bb. Clarinet 2 has Gb instead of G.
 Measure 228 : Horns 1 and 2 have D instead of C for last eighth note.
 Measures 230 and 231 : Piccolo has Es instead of Cs.
